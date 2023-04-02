@@ -13,7 +13,7 @@ choco install awscli
 ```
 ## Confirmation that AWSCLI is running on my system
 
-![Confirmation of AWS CLI](_docs/assets/aws_cli_confirmation.PNG)
+![Confirmation of AWS CLI](assets/awscli.PNG)
 
 
 ## Confirmation that Local IDE can reach AWS account
